@@ -1,3 +1,3 @@
-# DevOps Project
+# DevOps Aux Project
 
-# Aux Project
+# Shell Scripting

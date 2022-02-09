@@ -1,5 +1,5 @@
 # Aux-Project---Shell-Scripting
   
   
-  
-  ![](images/1.png)
+![](1.png)
+![](images/1.png)
